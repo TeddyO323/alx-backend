@@ -31,7 +31,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - All your functions and coroutines must be type-annotated
 
 ### Setup: Popular_Baby_Names.csv
-Use this [data file](/Popular_Baby_Names.csv) for your project.
+Use this [data file](./Popular_Baby_Names.csv) for your project.
 
 ### Tasks
 
