@@ -1,6 +1,3 @@
-Here's the content for your `README.md` file in Markdown language:
-
-```markdown
 # 0x00. Pagination
 
 #### `Back-end`
