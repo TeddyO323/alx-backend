@@ -33,9 +33,6 @@ This project delves into caching mechanisms to improve data retrieval performanc
 - **In-Memory Caching**: Using in-memory data stores like Redis to cache data for quick access.
 - **Distributed Caching**: Techniques to manage caches in a distributed system to maintain data consistency and availability.
 
-These explanations provide a concise overview of each project’s focus and can be integrated into your existing README.md file.
-
-
 ## Contributing
 
 We welcome contributions to this repository! If you'd like to contribute, please follow these steps:
