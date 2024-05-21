@@ -1,6 +1,3 @@
-For the main repository `alx-backend`, your `README.md` should provide an overview of the repository, describe its purpose, list the projects it contains, and provide any necessary instructions for setup and usage. Here's a template you can use:
-
-```markdown
 # ALX Backend
 
 Welcome to the ALX Backend repository. This repository contains various backend projects and exercises that focus on different aspects of backend development.
