@@ -1,5 +1,3 @@
-Here's a unique version of the content for your `README.md` file in Markdown language:
-
 ```markdown
 # 0x01. Caching
 
