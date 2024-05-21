@@ -1,4 +1,3 @@
-```markdown
 # 0x01. Caching
 
 ## Back-end
